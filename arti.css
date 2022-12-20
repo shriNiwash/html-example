@@ -1,0 +1,16 @@
+#card_data{
+    width: 23rem;
+    height: 16rem;
+    background-color: aqua;
+    border: 2px solid;
+    border-radius: 30px;
+}
+
+#card_body{
+    text-align: center;
+}
+
+#font_data{
+    font-size: 46px;
+    color: red;
+}
